@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "discord_id": "1017810605303922738",
+      "username": "uenero",
+      "avatar": "32e6e582f6732cf9d23712d7fe4b7e05",
+      "is_admin": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Burger Shot",
+      "price": 12.5,
+      "category": "Burgers",
+      "type": "item"
+    },
+    {
+      "id": 2,
+      "name": "Cheeseburger",
+      "price": 15,
+      "category": "Burgers",
+      "type": "item"
+    },
+    {
+      "id": 3,
+      "name": "Double Burger",
+      "price": 18.5,
+      "category": "Burgers",
+      "type": "item"
+    },
+    {
+      "id": 4,
+      "name": "Frites",
+      "price": 5,
+      "category": "Accompagnements",
+      "type": "item"
+    },
+    {
+      "id": 5,
+      "name": "Boisson",
+      "price": 3.5,
+      "category": "Boissons",
+      "type": "item"
+    },
+    {
+      "id": 6,
+      "name": "Menu Classique",
+      "price": 20,
+      "category": "Menus",
+      "type": "menu"
+    },
+    {
+      "id": 7,
+      "name": "Menu Double",
+      "price": 25,
+      "category": "Menus",
+      "type": "menu"
+    },
+    {
+      "id": 8,
+      "name": "Menu Famille",
+      "price": 45,
+      "category": "Menus",
+      "type": "menu"
+    }
+  ],
+  "sales": [],
+  "crafts": [],
+  "expenses": []
+}
